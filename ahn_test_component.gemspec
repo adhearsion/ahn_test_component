@@ -1,6 +1,7 @@
 GEM_FILES = %w{
   ahn_test_component.gemspec
   lib/ahn_test_component.rb
+  config/ahn_test_component.yml
 }
 
 Gem::Specification.new do |s|
